@@ -1,2 +1,1 @@
 //Code your solution here
-Call httpserver in the learn IDE terminal to open index.html in a new tab, then open your Chrome developer tools and call mocha.run() from your console to run the tests. When you call mocha.run(), the tests will be appended to the index.html page you are on.
