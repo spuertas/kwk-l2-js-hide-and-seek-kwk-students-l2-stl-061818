@@ -5,3 +5,6 @@ function getFirstSelector(selector) {
 function nestedTarget() {
   return document.querySelector('.target');
 }
+function increaseRankBy(n) {
+  
+}
