@@ -5,7 +5,9 @@ function getFirstSelector(selector) {
 function nestedTarget() {
   return document.querySelector('.target');
 }
-
+function deepestChild() {
+  
+}
 // function increaseRankBy(n) {
 //   const lis = document.getElementById('app').querySelectorAll('ul.ranked-list li')
  
